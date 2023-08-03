@@ -1,0 +1,1 @@
+# quasi_floating_ota_with_mos_resistor
